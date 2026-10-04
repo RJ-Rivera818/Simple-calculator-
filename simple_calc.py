@@ -44,7 +44,7 @@ while True:
             print(num1 * num2)
         elif operand == "/":
             if num2 == 0:
-                print("Error: Cannot divide by zero!")
+                print("Error: Nice try ;)")
             else:
                 print(num1 / num2)
         elif operand == "%":
